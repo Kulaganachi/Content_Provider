@@ -1,4 +1,4 @@
-# Content_Provider
+
 ## Ex.No:5 Create Your Own Content Providers to get Contacts details.
 ## AIM:
 To create your own content providers to get contacts details using Android Studio.
@@ -25,7 +25,7 @@ Step 7: Save and run the application.
 /*
 Program to print the text create your own content providers to get contacts details.
 
-Developed by: Kulaganachi
+Developed by: Kulaganachi R
 
 Registeration Number :212221040086
 */
